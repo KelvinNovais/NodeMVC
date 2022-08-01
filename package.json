@@ -1,0 +1,13 @@
+{
+  "name": "NodeMVC",
+  "version": "1.0.0",
+  "description": "A simple project to learn MVC pattern with NodeJS.",
+  "main": "index.js",
+  "repository": "https://github.com/KelvinNovais/NodeMVC",
+  "author": "Kelvin Novais",
+  "license": "GPL-3.0",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
